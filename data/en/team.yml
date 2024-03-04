@@ -1,0 +1,100 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : Oliver Agustin
+      image_webp : images/team/doc.jpg
+      image : images/team/doc.jpg
+      designation : LeakyMosfet Founder & Trainor
+      content : Completed PhD in Information Technology. A software developer and IT consultant.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/olivearagustin"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+      # team member loop
+    - name : Mitch Alvarez
+      image_webp : images/team/mitch.webp
+      image : images/team/mitch.jpg
+      designation : Business Development Supervisor
+      content : Joined team leakymosfet a year ago. Very passionate about what she does.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/mitchveraequinox"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"         
+        
+    # team member loop
+    - name : Lineth Reyes
+      image_webp : images/team/lineth.webp
+      image : images/team/lineth.jpg
+      designation : Business Development Assistant
+      content : Joined team leakymosfet a year very passionate about what she does.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/profile.php?id=100089666920848"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Shiela Sansano
+      image_webp : images/team/shiela.webp
+      image : images/team/shiela.jpg
+      designation : Sales Staff
+      content : New member of team leakymosfet with years of experience in sales.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/profile.php?id=100095424196382"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - name : Joel Mercado
+      image_webp : images/team/joel.jpg
+      image : images/team/joel1.jpg
+      designation : Service Engineer
+      content : 1 year experience in electronics repair, a master reballer for team leakymosfet.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/profile.php?id=100085174060150"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - name : Franklin Ogot
+      image_webp : images/team/frank1.jpg
+      image : images/team/frank1.jpg
+      designation : Support Service Engineer
+      content : Joined team leakymosfet a few months ago. Very passionate about what he does.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/profile.php?id=61550257700161"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"

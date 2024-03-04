@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Want to learn how to quickly troubleshoot laptop? High quality repairs? Less backjobs? "
+  content : "Mastering the art of identifying components and testing them is an essential skill that an aspiring laptop technician must learn. Knowing how each circuit works speed up the troubleshooting process. Circuit analysis will take you to the next level and prove you are a master of board-level repair!"
+  button:
+    enable : true
+    label : "Sign Up for training with us"
+    link : "#pricing"

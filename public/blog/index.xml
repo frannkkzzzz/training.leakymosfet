@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on LeakyMosfet Laptop Training</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on LeakyMosfet Laptop Training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [LeakyMosfet](https://www.leakymosfet.com)</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeakyMosfet&#39;s General Laptop Repair Procedure</title>
+      <link>/blog/general-laptop-repair-procedure/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>/blog/general-laptop-repair-procedure/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
+    
+    <item>
+      <title>Common laptop problems caused by a missing HWPG?</title>
+      <link>/blog/common-laptop-problems-caused-by-missing-hwpg/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>/blog/common-laptop-problems-caused-by-missing-hwpg/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Different functions of MOSFET in Laptops</title>
+      <link>/blog/different-functions-of-mosfets-in-laptops/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>/blog/different-functions-of-mosfets-in-laptops/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+  </channel>
+</rss>

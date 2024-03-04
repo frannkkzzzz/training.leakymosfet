@@ -1,0 +1,470 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : LeakyMosfet Laptop Training
+  portfolio_item :
+
+  # portfolio item loop
+    - name: Iloilo City 3
+      image: images/portfolio/iloilo3.jpg
+      image_webp: images/portfolio/iloilo3.jpg
+      categories: ["visayas"]
+      content: Iloilo City, February 05-08, 2024
+      link: "blog/training/iloilo-batch-3"
+
+  # portfolio item loop
+    - name : Cabanatuan City 5
+      image : images/portfolio/cabanatuan5.jpg
+      image_webp : images/portfolio/cabanatuan5.jpg
+      categories : ["mindanao"]
+      content : Cabanatuan City, January 22-25, 2024
+      link : "blog/training/cabanatuan-city-5"
+
+   # portfolio item loop
+    - name : Davao City IV
+      image : images/portfolio/davao3.jpg
+      image_webp : images/portfolio/davao3.jpg
+      categories : ["mindanao"]
+      content : St. Poblacion Davao City, December 11-14, 2023
+      link : "blog/training/davao-city-4"
+
+    # portfolio item loop
+    - name : Cabanatuan City IV
+      image : images/portfolio/cabanatuan3.jpg
+      image_webp : images/portfolio/cabanatuan3.jpg
+      categories : ["mindanao"]
+      content : Cabanatuan City, August 21-24, 2023
+      link : "blog/training/cabanatuan-city-4"
+
+    # portfolio item loop
+    - name : Batangas II
+      image : images/portfolio/batangas1.jpg
+      image_webp : images/portfolio/batangas1.jpg
+      categories : ["luzon"]
+      content : Batangas, July 17-20, 2023
+      link : "blog/training/batangas"
+
+    # portfolio item loop
+    - name : Valenzuela
+      image : images/portfolio/valenzuela.jpg
+      image_webp : images/portfolio/valenzuela.jpg
+      categories : ["Metro Manila", "luzon"]
+      content : Valenzuela City, December 12-15, 2022
+      link : "blog/training/valenzuela"
+
+      # portfolio item loop
+    - name : Bacolod City II
+      image : images/portfolio/bacolod1.jpg
+      image_webp : images/portfolio/bacolod1.jpg
+      categories : ["visayas"]
+      content : Bacolod City, November 21-24, 2022
+      link : "blog/training/bacolod-city-1"
+
+     # portfolio item loop
+    - name : Davao City III
+      image : images/portfolio/davao.jpg
+      image_webp : images/portfolio/davao.jpg
+      categories : ["mindanao"]
+      content : Davao City, September 19-22, 2022
+      link : "blog/training/davao-city-3"
+
+    # portfolio item loop
+    - name : Agusan Del Sur
+      image : images/portfolio/ads.jpg
+      image_webp : images/portfolio/ads.jpg
+      categories : ["visayas"]
+      content : Agusan Del Sur, May 29 - June 01, 2022
+      link : "blog/training/agusan-del-sur"
+
+      # portfolio item loop
+    - name : Cebu III
+      image : images/portfolio/cebu.jpg
+      image_webp : images/portfolio/cebu.webp
+      categories : ["visayas"]
+      content : Cebu City, May 23-26, 2022
+      link : "blog/training/cebu-3"
+      
+      
+    # portfolio item loop
+    - name : Quezon City I
+      image : images/portfolio/qc1.jpg
+      image_webp : images/portfolio/qc1.webp
+      categories : ["Metro Manila", "luzon"]
+      content : Quezon City, October 11-14, 2019
+      link : "blog/training/quezon-city-1"
+      
+      # portfolio item loop
+    - name : Quezon City II
+      image : images/portfolio/qc2.jpg
+      image_webp : images/portfolio/qc2.webp
+      categories : ["Metro Manila", "luzon"]
+      content : Lagro, Quezon City, October 18-21, 2020
+      link : "blog/training/quezon-city-2"    
+      
+    # portfolio item loop
+    - name : Tagbilaran City, Bohol
+      image : images/portfolio/tagbilaran.jpg
+      image_webp : images/portfolio/tagbilaran.webp
+      categories : ["visayas"]
+      content : Tagbilaran City, Bohol, November 20-23, 2019
+      link : "blog/training/tagbilaran"
+      
+    # portfolio item loop
+    - name : Tacloban City
+      image : images/portfolio/tacloban.jpg
+      image_webp : images/portfolio/tacloban.webp
+      categories : ["visayas"]
+      content : Tacloban City, Tacloban, February 26-29, 2020
+      link : "blog/training/tacloban"
+
+    # portfolio item loop
+    - name : Antipolo, Rizal
+      image : images/portfolio/rizal.jpg
+      image_webp : images/portfolio/rizal.webp
+      categories : ["Metro Manila", "luzon"]
+      content : Antipolo City, Rizal, October 24-27, 2019
+      link : "blog/training/rizal"
+      
+    # portfolio item loop
+    - name : Gilmore QC I
+      image : images/portfolio/gilmore1.jpg
+      image_webp : images/portfolio/gilmore1.webp
+      categories : ["Metro Manila", "luzon"]
+      content : New Manila, Quezon City, February 19-22, 2020
+      link : "blog/training/gilmore-1"
+      
+    # portfolio item loop
+    - name : Gilmore QC II
+      image : images/portfolio/gilmore2.jpg
+      image_webp : images/portfolio/gilmore2.webp
+      categories : ["Metro Manila", "luzon"]
+      content : New Manila, Quezon City, June 30 - July 1, 2020
+      link : "blog/training/gilmore-2"
+      
+    # portfolio item loop
+    - name : Naga City, CAMSUR
+      image : images/portfolio/camsur.jpg
+      image_webp : images/portfolio/camsur.webp
+      categories : ["luzon"]
+      content : Naga City, Camarines Sur, March 10-13, 2020
+      link : "blog/training/naga"  
+      
+      # portfolio item loop
+    - name : Legaspi City
+      image : images/portfolio/legaspi.jpg
+      image_webp : images/portfolio/legaspi.webp
+      categories : ["luzon"]
+      content : Legaspi City, Albay, March 10-13, 2019
+      link : "blog/training/legaspi"  
+      
+    # portfolio item loop
+    - name : San Jose, Mindoro
+      image : images/portfolio/mindoro.jpg
+      image_webp : images/portfolio/mindoro.webp
+      categories : ["luzon"]
+      content : San Jose City, Mindoro, September 26-29, 2019
+      link : "blog/training/mindoro"
+      
+    # portfolio item loop
+    - name : Pasay City
+      image : images/portfolio/pasay.jpg
+      image_webp : images/portfolio/pasay.webp
+      categories : ["Metro Manila","luzon"]
+      content : Pasay City, Metro Manila, November 27-30, 2019
+      link : "blog/training/pasay-city"
+      
+    # portfolio item loop
+    - name : Batangas I
+      image : images/portfolio/batangas.jpg
+      image_webp : images/portfolio/batangas.webp
+      categories : ["luzon"]
+      content : Lipa City, Batangas, August 15-18, 2019
+      link : "blog/training/lipa-city-batangas"
+      
+    # portfolio item loop
+    - name : Paranaque City
+      image : images/portfolio/paranaque.jpg
+      image_webp : images/portfolio/paranaque.webp
+      categories : ["Metro Manila", "luzon"]
+      content : Paranaque City, Metro Manila, July 22-25, 2019
+      link : "blog/training/paranaque-metro-manila"
+      
+    # portfolio item loop
+    - name : Baguio City
+      image : images/portfolio/baguio.jpg
+      image_webp : images/portfolio/baguio.webp
+      categories : ["luzon"]
+      content : Baguio City, August 21-24, 2019
+      link : "blog/training/baguio-city"
+      
+           
+    # portfolio item loop
+    - name : Davao City I
+      image : images/portfolio/davao1.jpg
+      image_webp : images/portfolio/davao1.webp
+      categories : ["mindanao"]
+      content : Davao City, September 12-15, 2019
+      link : "blog/training/davao-city-1"
+      
+    # portfolio item loop
+    - name : Iligan City
+      image : images/portfolio/iligan.jpg
+      image_webp : images/portfolio/iligan.webp
+      categories : ["mindanao"]
+      content : Iligan City, Iligan, July 5-8, 2019
+      link : "blog/training/iligan-city"
+ 
+       
+    # portfolio item loop
+    - name : Cagayan De Oro City
+      image : images/portfolio/cdo.jpg
+      image_webp : images/portfolio/cdo.webp
+      categories : ["mindanao"]
+      content : Cagayan De Oro City, January 28-31, 2020
+      link : "blog/training/cagayan-deo-oro-city"
+           
+    # portfolio item loop
+    - name : Bacolod City I
+      image : images/portfolio/bacolod.jpg
+      image_webp : images/portfolio/bacolod.webp
+      categories : ["visayas"]
+      content : Bacolod City, Bacolod, January 16-18, 2020
+      link : "blog/training/bacolod-city"        
+           
+    # portfolio item loop
+    - name : Iloilo City I
+      image : images/portfolio/iloilo.jpg
+      image_webp : images/portfolio/iloilo.webp
+      categories : ["visayas"]
+      content : Iloilo City, July 26-29, 2019
+      link : "blog/training/ilo-ilo-city"   
+      
+                 
+    # portfolio item loop
+    - name : Iloilo City II
+      image : images/portfolio/iloilo2.jpg
+      image_webp : images/portfolio/iloilo2.webp
+      categories : ["visayas"]
+      content : Iloilo City, July 30, 2019
+      link : "blog/training/ilo-ilo-city-2" 
+           
+    # portfolio item loop
+    - name : Eastern Samar
+      image : images/portfolio/eastern-samar.jpg
+      image_webp : images/portfolio/eastern-samar.webp
+      categories : ["visayas"]
+      content : Dolores, Eastern Samar, September 4-7, 2019
+      link : "blog/training/eastern-samar"
+            
+           
+    # portfolio item loop
+    - name : Mactan City, Cebu I
+      image : images/portfolio/cebu1.jpg
+      image_webp : images/portfolio/cebu1.webp
+      categories : ["visayas"]
+      content : Mactan City, Cebu, July 11-14, 2019
+      link : "blog/training/mactan-city-cebu-1"              
+           
+    # portfolio item loop
+    - name : Mactan City, Cebu II
+      image : images/portfolio/cebu2.jpg
+      image_webp : images/portfolio/cebu2.webp
+      categories : ["visayas"]
+      content : Mactan City, Cebu, December 4-7, 2019 
+      link : "blog/training/mactan-city-cebu-2"  
+
+
+    # portfolio item loop
+    - name : Davao City II
+      image : images/portfolio/davao2.jpg
+      image_webp : images/portfolio/davao2.webp
+      categories : ["mindanao"]
+      content : Davao City, February 11-13, 2020 
+      link : "blog/training/davao-city-2" 
+      
+    # portfolio item loop
+    - name : Cabanatuan City I
+      image : images/portfolio/cabanatuan1.jpg
+      image_webp : images/portfolio/cabanatuan1.webp
+      categories : ["luzon"]
+      content : Cabanatuan City, June 5-8, 2019
+      link : "blog/training/cabanatuan-city-1"  
+      
+    # portfolio item loop
+    - name : Cabanatuan City II
+      image : images/portfolio/cabanatuan2.jpg
+      image_webp : images/portfolio/cabanatuan2.webp
+      categories : ["luzon"]
+      content : Cabanatuan City, June 20-23, 2019
+      link : "blog/training/cabanatuan-city-2" 
+      
+    # portfolio item loop
+    - name : Cabanatuan City III
+      image : images/portfolio/cabanatuan4.jpg
+      image_webp : images/portfolio/cabanatuan4.jpg
+      categories : ["luzon"]
+      content : Cabanatuan City, Philippines, November 5-8, 2020
+      link : "blog/training/cabanatuan-city-3" 
+      
+    # portfolio item loop
+    - name : Tagaytay, Cavite
+      image : images/portfolio/tagaytay.jpg
+      image_webp : images/portfolio/tagaytay.webp
+      categories : ["luzon"]
+      content : Cavite, September 19-22, 2019
+      link : "blog/training/tagaytay-city-cavite"
+      
+    # portfolio item loop
+    - name : Pulilan, Bulacan
+      image : images/portfolio/bulacan.jpg
+      image_webp : images/portfolio/bulacan.webp
+      categories : ["luzon"]
+      content : Pulilan, Bulacan
+      link : "blog/training/pulilan-bulacan"
+      
+            
+    # portfolio item loop
+    - name : Online Training 1
+      image : images/portfolio/online.jpg
+      image_webp : images/portfolio/online.jpg
+      categories : ["online"]
+      content : August 2020
+      link : "blog/training/online-training-i"
+      
+    # portfolio item loop
+    - name : Online Training 2
+      image : images/portfolio/online1.jpg
+      image_webp : images/portfolio/online1.jpg
+      categories : ["online"]
+      content : September 2020
+      link : "blog/training/online-training-ii"
+      
+    # portfolio item loop
+    - name : Online Training 3
+      image : images/portfolio/online2.jpg
+      image_webp : images/portfolio/online2.jpg
+      categories : ["online"]
+      content : October 2020
+      link : "blog/training/online-training-iii"
+      
+    # portfolio item loop
+    - name : Online Training 4
+      image : images/portfolio/online3.jpg
+      image_webp : images/portfolio/online3.jpg
+      categories : ["online"]
+      content : November 2020
+      link : "blog/training/online-training-iv"
+
+    # portfolio item loop
+    - name : Online Training 5
+      image : images/portfolio/online.jpg
+      image_webp : images/portfolio/online.webp
+      categories : ["online"]
+      content : October 2022
+      link : "blog/training/online-training-v"
+
+    # portfolio item loop
+    - name : Online Training 6
+      image : images/portfolio/online6.jpg
+      image_webp : images/portfolio/online6.webp
+      categories : ["online"]
+      content : July 09, 2022
+      link : "blog/training/online-training-vi"
+
+    # portfolio item loop
+    - name : Online Training 7
+      image : images/portfolio/online7.jpg
+      image_webp : images/portfolio/online7.webp
+      categories : ["online"]
+      content : October 2022
+      link : "blog/training/online-training-vii"
+
+    # portfolio item loop
+    - name : Online Training 8
+      image : images/portfolio/online102022.jpg
+      image_webp : images/portfolio/online102022.jpg
+      categories : ["online"]
+      content : October 2022
+      link : "blog/training/online-training-8"
+
+    # portfolio item loop
+    - name : Online Training 9
+      image : images/portfolio/online042022.jpg
+      image_webp : images/portfolio/online042022.webp
+      categories : ["online"]
+      content : April 2022
+      link : "blog/training/online-training-9"
+
+    # portfolio item loop
+    - name : Online Training 10
+      image : images/portfolio/online122022.jpg
+      image_webp : images/portfolio/online122022.jpg
+      categories : ["online"]
+      content : December 2022
+      link : "blog/training/online-training-x"
+
+    # portfolio item loop
+    - name : Online Training 11
+      image : images/portfolio/online112022.jpg
+      image_webp : images/portfolio/online112022.jpg
+      categories : ["online"]
+      content : November 2022
+      link : "blog/training/online-11"
+
+    # portfolio item loop
+    - name : Online Training 12
+      image : images/portfolio/online092022.jpg
+      image_webp : images/portfolio/online092022.jpg
+      categories : ["online"]
+      content : September 2022
+      link : "blog/training/online-xii"
+
+    # portfolio item loop
+    - name : Online Training 13
+      image : images/portfolio/online012023.jpg
+      image_webp : images/portfolio/online012023.jpg
+      categories : ["online"]
+      content : January 2023
+      link : "blog/training/online-xiii"
+
+    # portfolio item loop
+    - name : Online Training 14
+      image : images/portfolio/online052023.jpg
+      image_webp : images/portfolio/online052023.jpg
+      categories : ["online"]
+      content : May 2023
+      link : "blog/training/online-xiv"
+
+        # portfolio item loop
+    - name : Online Training 15
+      image : images/portfolio/online022023.jpg
+      image_webp : images/portfolio/online022023.jpg
+      categories : ["online"]
+      content : February 2023
+      link : "blog/training/online-022023"
+
+    # portfolio item loop
+    - name : Online Training 16
+      image : images/portfolio/online032023.jpg
+      image_webp : images/portfolio/online032023.jpg
+      categories : ["online"]
+      content : March 2023
+      link : "blog/training/online-032023"
+    
+    # portfolio item loop
+    - name : Online Training 17
+      image : images/portfolio/online042023.jpg
+      image_webp : images/portfolio/online042023.jpg
+      categories : ["online"]
+      content : April 2023
+      link : "blog/training/online-042023"
+
+    # portfolio item loop
+    - name : Online Training 18
+      image : images/portfolio/online062023.jpg
+      image_webp : images/portfolio/online062023.jpg
+      categories : ["online"]
+      content : June 2023
+      link : "blog/training/online-062023"
+
+      

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "LeakyMosfet Laptop Repair Training"
+  content : "EXPLORE. DISCOVER. EVOLVE."
+  button:
+    enable : true
+    label : "Sign Up Now"
+    link : "#pricing"

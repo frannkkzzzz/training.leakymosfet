@@ -1,0 +1,60 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Training Fees
+  pricing_table :
+    # pricing table loop
+    - name : Online Training 
+      price : Php16000
+      unit : without incidental expense / 4 days 
+      services:
+        - Online Training (via Zoom)
+        - 32 hours of Training
+        - 200+ pages PDF Reference Notes
+        - 30GB+ Schematics, Boardviews & BIOS Dump
+        - 1 BiosCreator Software (USB EDITION)
+        - 1 Year VIP Support
+        - LeakyMosfet T-Shirt
+        - Certificate of Completion
+        - No Incidental Expenses
+      button:
+        label : "Sign up"
+        link : "signup/templates/trainingform"
+        
+    # pricing table loop
+    - name : F2F Training
+      price : Php16000 
+      unit : + Incidental Expense / 4 days 
+      services:
+        - Face to Face Training
+        - 32 hours of Training
+        - 200+ pages PDF Reference Notes
+        - 30GB+ Schematics, Boardviews & BIOS Dump
+        - 1 BiosCreator Software (USB EDITION)
+        - 1 Year VIP Support
+        - LeakyMosfet T-Shirt
+        - Certificate of Completion
+        - Additional Incidental Expenses
+      button:
+        label : "Sign up"
+        link : "signup/templates/trainingform"
+      
+    # pricing table loop
+    - name : VIP Training
+      price : Php40000
+      unit : 4 days + 6 days OJT
+      services:
+        - F2F Training/Online Training
+        - 80 hours of Training
+        - 200+ pages PDF Reference Notes
+        - 30GB+ Schematics, Boardviews & BIOS Dump
+        - 1 BiosCreator Software (USB EDITION)
+        - 1 Year VIP Support
+        - LeakyMosfet T-Shirt
+        - Certificate of Completion
+        - Additional Incidental Expenses
+      button:
+        label : "Sign up"
+        link : "signup/templates/trainingform"
+      
+    

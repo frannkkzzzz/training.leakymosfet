@@ -1,0 +1,51 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  title : Testimonials
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+
+    # testimonial item loop
+    - name : Wilnie Navasca
+      image : images/client/wilnie.jpg
+      image_webp : images/client/wilnie.webp
+      date : July 26, 2021
+      content : They instruct us in everything from fundamental to sophisticated laptop repair, including how to make sure there are no power or display problems, among other things.
+      
+    # testimonial item loop
+    - name : Jose Alabata Jr.
+      image : images/client/jose.jpg
+      image_webp : images/jose.jpg
+      date : December 15, 2023
+      content : Thank you for the training and troubleshooting guide! Whatever skills I have now, I owe it to you guys!
+
+    # testimonial item loop
+    - name : Christian Tutop
+      image : images/client/christian.jpg
+      image_webp : images/client/christian.webp
+      date : Dec 26, 2018
+      content : The trainor disects the theory until we fully understand the concept. Repair techniques taught in training are very effective! Support forum is a big help, application and practice is all that is needed.
+     
+     # testimonial item loop
+    - name : Ariel Jabanag
+      image : images/client/ariel.jpg
+      image_webp : images/client/ariel.jpg
+      date : Dec 26, 2019
+      content : They teach us from basic to advanced knowledge in laptop repair, steps to check no power issues, no display isues and many more.
+
+    # testimonial item loop
+    - name : Rega Garcia
+      image : images/client/regie.jpg
+      image_webp : images/client/regie.webp
+      date : December 15, 2023
+      content : I am really grateful for the troubleshooting help and instruction! I owe you guys all of my current skill set!
+
+    # testimonial item loop
+    - name : Leo Subiera
+      image : images/client/leo.jpg
+      image_webp : images/client/leo.jpg
+      date : February 08, 2024
+      content : Big salute to Team Leaky Mosfet, I have gained much knowledge because of this training. Thank you so much, Doc Oliver for the guidance!
+
+   

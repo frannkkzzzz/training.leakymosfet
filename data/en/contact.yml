@@ -1,0 +1,32 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : We love to hear from you. Contact us if you need more information about the training we offer.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Address: #6 Burgos Ave., Cabanatuan City, Philippines"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Mobile Number: +639171266657"
+
+    - icon : ti-headphone # themify icon pack : https://themify.me/themify-icons
+      info : "Landline: 044-951-2212"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: cs@leakymoset.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/xqkralyj" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    mobile : "Your mobile #"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

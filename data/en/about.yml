@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : Commitment
+    content : We strongly believe that you can solve laptop problems on your own by learning how to apply the proper laptop repair skills.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Professionalism
+    content : In many ways, theory is far more significant than experience. These are both provided by our teaching methodology.
+
+  - icon : ti-ink-pen # themify icon pack : https://themify.me/themify-icons
+    title : Passion
+    content : We are passionate about our work. Let's learn laptop repair together and share our passion for this rapidly evolving technology!

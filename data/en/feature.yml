@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : false
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We’re An IT Company
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  feature_item : 
+      # feature item loop
+    - title : E-Commerce Store
+      icon : ti-shopping-cart # themify icon pack : https://themify.me/themify-icons
+      content : We are in the business of selling chips, laptop motherboards, laptop/macbook parts, and repair tools nation-wide. 
+      
+      # feature item loop
+    - title : Laptop/Macbook Service Center
+      icon : ti-support # themify icon pack : https://themify.me/themify-icons
+      content : We are an authorized service center of Acer, HP, Lenovo, and Brother. We perform chip-level repair of multi-brand laptops including macbooks.
+
+      # feature item loop
+    - title : Software Development Company
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : We are a software development company specializing in desktop and web applications for small to medium organizations.
+      
+      # feature item loop
+    - title : IT Consultancy & Training
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : We conduct software development training and basic to advanced laptop repair training for empowering your business.

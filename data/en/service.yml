@@ -1,0 +1,21 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Laptop Repair Training
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : We provide basic to advanced laptop training for individuals and corporate customers.
+      
+    # service item loop
+    - name : Laptop Repair
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : We accept laptop and macbook repairs from end-users, corporate customers and partners. 
+    
+    # service item loop
+    - name : Apps Development
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : We also customize and develop applications for repair shops. Contact us for more information.
+      
+   

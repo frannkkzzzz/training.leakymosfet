@@ -1,0 +1,71 @@
+---
+title: "VIP Training Form"
+date: 2024-01-01T12:52:36+06:00
+image_webp: disable
+image: images/banner.jpg
+description: "This is meta description"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{  }}</title> <!-- You can use the title from the front matter here -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            max-width: auto;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #221e1e;
+            color: white;
+            cursor: pointer;
+        }
+        #otherTrainingInput {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+onload="if(submitted) {location.href = '/signup/templates/typage';}"></iframe>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfmFyOaKNg8eFUz5R0pgNAxPoiIDLm3jGqGcOS6ytg8_0XS3g/formResponse" method="post" target="hidden_iframe" name="contact" class="contact-form" onsubmit="submitted=true;">
+    <label for="name">Full Name:</label>
+    <input type="text" id="name" name="entry.2005620554" required>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="entry.1045781291" required>
+
+    <label for="phone">Phone Number:</label>
+    <input type="tel" id="phone" name="entry.279566510" required>
+
+    <label for="address">Address:</label>
+    <input type="text" id="name" name="entry.1697308292" required>
+
+    <label for="phone">What is your Profession/Work?</label>
+    <input type="text" id="work" name="entry.1565344718" placeholder="Example: Technician, Hobbyist, Shop Owner, Freelance" required>
+
+    <input type="submit" value="Sign Up">
+</form>
+
+<script>
+  
+</script>
+
+</body>
+</html>
