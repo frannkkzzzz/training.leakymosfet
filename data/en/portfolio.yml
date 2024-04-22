@@ -5,6 +5,14 @@ portfolio:
   portfolio_item :
 
   # portfolio item loop
+    - name: Cabanatuan City VIP
+      image: images/portfolio/vip1.jpg
+      image_webp: images/portfolio/vip1.jpg
+      categories: ["luzon"]
+      content: Cabanatuan City, March 04-14, 2024
+      link: "blog/training/vip-training"
+
+  # portfolio item loop
     - name: Iloilo City 3
       image: images/portfolio/iloilo3.jpg
       image_webp: images/portfolio/iloilo3.jpg
@@ -16,7 +24,7 @@ portfolio:
     - name : Cabanatuan City 5
       image : images/portfolio/cabanatuan5.jpg
       image_webp : images/portfolio/cabanatuan5.jpg
-      categories : ["mindanao"]
+      categories : ["luzon"]
       content : Cabanatuan City, January 22-25, 2024
       link : "blog/training/cabanatuan-city-5"
 
@@ -32,7 +40,7 @@ portfolio:
     - name : Cabanatuan City IV
       image : images/portfolio/cabanatuan3.jpg
       image_webp : images/portfolio/cabanatuan3.jpg
-      categories : ["mindanao"]
+      categories : ["luzon"]
       content : Cabanatuan City, August 21-24, 2023
       link : "blog/training/cabanatuan-city-4"
 
@@ -328,7 +336,7 @@ portfolio:
       image : images/portfolio/online.jpg
       image_webp : images/portfolio/online.jpg
       categories : ["online"]
-      content : August 2020
+      content : August 2020 - With 9 Participants
       link : "blog/training/online-training-i"
       
     # portfolio item loop
@@ -336,7 +344,7 @@ portfolio:
       image : images/portfolio/online1.jpg
       image_webp : images/portfolio/online1.jpg
       categories : ["online"]
-      content : September 2020
+      content : September 2020 - With 7 Participants
       link : "blog/training/online-training-ii"
       
     # portfolio item loop
@@ -344,7 +352,7 @@ portfolio:
       image : images/portfolio/online2.jpg
       image_webp : images/portfolio/online2.jpg
       categories : ["online"]
-      content : October 2020
+      content : October 2020 - With 7 Participants
       link : "blog/training/online-training-iii"
       
     # portfolio item loop
@@ -352,7 +360,7 @@ portfolio:
       image : images/portfolio/online3.jpg
       image_webp : images/portfolio/online3.jpg
       categories : ["online"]
-      content : November 2020
+      content : November 2020 - With 9 Participants
       link : "blog/training/online-training-iv"
 
     # portfolio item loop
@@ -360,7 +368,7 @@ portfolio:
       image : images/portfolio/online.jpg
       image_webp : images/portfolio/online.webp
       categories : ["online"]
-      content : October 2022
+      content : October 2022 - With 9 Participants
       link : "blog/training/online-training-v"
 
     # portfolio item loop
@@ -368,7 +376,7 @@ portfolio:
       image : images/portfolio/online6.jpg
       image_webp : images/portfolio/online6.webp
       categories : ["online"]
-      content : July 09, 2022
+      content : July 09, 2022 - With 5 Participants
       link : "blog/training/online-training-vi"
 
     # portfolio item loop
@@ -376,7 +384,7 @@ portfolio:
       image : images/portfolio/online7.jpg
       image_webp : images/portfolio/online7.webp
       categories : ["online"]
-      content : October 2022
+      content : October 2022 - With 6 Participants
       link : "blog/training/online-training-vii"
 
     # portfolio item loop
@@ -384,7 +392,7 @@ portfolio:
       image : images/portfolio/online102022.jpg
       image_webp : images/portfolio/online102022.jpg
       categories : ["online"]
-      content : October 2022
+      content : October 2022 - With 5 Participants
       link : "blog/training/online-training-8"
 
     # portfolio item loop
@@ -392,7 +400,7 @@ portfolio:
       image : images/portfolio/online042022.jpg
       image_webp : images/portfolio/online042022.webp
       categories : ["online"]
-      content : April 2022
+      content : April 2022 - With 9 Participants
       link : "blog/training/online-training-9"
 
     # portfolio item loop
@@ -400,7 +408,7 @@ portfolio:
       image : images/portfolio/online122022.jpg
       image_webp : images/portfolio/online122022.jpg
       categories : ["online"]
-      content : December 2022
+      content : December 2022 - With 12 Participants
       link : "blog/training/online-training-x"
 
     # portfolio item loop
@@ -408,7 +416,7 @@ portfolio:
       image : images/portfolio/online112022.jpg
       image_webp : images/portfolio/online112022.jpg
       categories : ["online"]
-      content : November 2022
+      content : November 2022 - With 19 Participants
       link : "blog/training/online-11"
 
     # portfolio item loop
@@ -416,7 +424,7 @@ portfolio:
       image : images/portfolio/online092022.jpg
       image_webp : images/portfolio/online092022.jpg
       categories : ["online"]
-      content : September 2022
+      content : September 2022 - With 5 Participants
       link : "blog/training/online-xii"
 
     # portfolio item loop
@@ -424,7 +432,7 @@ portfolio:
       image : images/portfolio/online012023.jpg
       image_webp : images/portfolio/online012023.jpg
       categories : ["online"]
-      content : January 2023
+      content : January 2023 - With 4 Participants
       link : "blog/training/online-xiii"
 
     # portfolio item loop
@@ -432,7 +440,7 @@ portfolio:
       image : images/portfolio/online052023.jpg
       image_webp : images/portfolio/online052023.jpg
       categories : ["online"]
-      content : May 2023
+      content : May 2023 - With 5 Participants
       link : "blog/training/online-xiv"
 
         # portfolio item loop
@@ -440,7 +448,7 @@ portfolio:
       image : images/portfolio/online022023.jpg
       image_webp : images/portfolio/online022023.jpg
       categories : ["online"]
-      content : February 2023
+      content : February 2023 - With 14 Participants
       link : "blog/training/online-022023"
 
     # portfolio item loop
@@ -448,7 +456,7 @@ portfolio:
       image : images/portfolio/online032023.jpg
       image_webp : images/portfolio/online032023.jpg
       categories : ["online"]
-      content : March 2023
+      content : March 2023 - With 11 Participants
       link : "blog/training/online-032023"
     
     # portfolio item loop
@@ -456,7 +464,7 @@ portfolio:
       image : images/portfolio/online042023.jpg
       image_webp : images/portfolio/online042023.jpg
       categories : ["online"]
-      content : April 2023
+      content : April 2023 - With 10 Participants 
       link : "blog/training/online-042023"
 
     # portfolio item loop
@@ -464,7 +472,7 @@ portfolio:
       image : images/portfolio/online062023.jpg
       image_webp : images/portfolio/online062023.jpg
       categories : ["online"]
-      content : June 2023
+      content : June 2023 - With 8 Participants
       link : "blog/training/online-062023"
 
       
