@@ -37,8 +37,8 @@ team:
 
     # team member loop
     - name : Franklin Ogot
-      image_webp : images/team/frank.jpg
-      image : images/team/frank.jpg
+      image_webp : images/team/frank1.jpg
+      image : images/team/frank1.jpg
       designation : Support Service Engineer
       content : Joined team leakymosfet a few months ago. Very passionate about what he does.
       social :
