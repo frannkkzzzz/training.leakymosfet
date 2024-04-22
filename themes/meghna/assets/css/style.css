@@ -303,11 +303,11 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #00224D;
+  color: #423737;
 }
 
 .title h2 span {
-  color: #e2474e;
+  color: #c70039;
 }
 
 .title p {
@@ -445,7 +445,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(109, 96, 96, 0.52);
+  background: rgb(51 51 51 / 52%);
   position: absolute;
   top: 0;
   right: 0;
@@ -809,7 +809,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #e2474e;
+  color: #c70039;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -820,7 +820,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #e2474e;
+  color: #c70039;
   font-size: 30px;
 }
 
