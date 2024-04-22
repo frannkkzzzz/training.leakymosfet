@@ -15,7 +15,7 @@ html {
 body {
   background-color: #efebeb;
   font-family: "Anaheim", sans-serif;
-  color: #3f3835;
+  color: #352e28;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #322d2b;
+  color: #423737;
 }
 
 p {
@@ -99,7 +99,7 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: #bc4848;
+  color: #c25151d5;
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
@@ -110,12 +110,12 @@ a:hover {
 }
 
 .btn-transparent {
-  border: 1px solid #5d5454;
+  border: 1px solid #5d54547b;
 }
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #D2383F;
+  background-color: #c700388d;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -219,7 +219,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #e2474e;
+  background: #C70039;
   color: #f1eae7;
   display: inline-block;
   font-size: 14px;
@@ -303,7 +303,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #3f3835;
+  color: #00224D;
 }
 
 .title h2 span {
@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #221e1e;
+  background-color: #c70039;
   width: 100%;
   margin-bottom: 0;
 }
@@ -445,7 +445,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgb(34 17 17 / 52%);
+  background: rgba(109, 96, 96, 0.52);
   position: absolute;
   top: 0;
   right: 0;
@@ -460,7 +460,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #D2383F;
+  color: #C70039;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -496,7 +496,7 @@ a:hover {
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: #f1eae7;
+  border-color: #e6e2e28c;
   padding: 14px 50px;
   font-size: 18px;
   font-size: 16px;
@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #efdddc;
+  background: #e6e2e2;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -870,7 +870,7 @@ a:hover {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #D2383F;
+  border-color: #C70039;
 }
 
 .portfolio-block {
@@ -879,7 +879,7 @@ a:hover {
 
 .portfolio-block:before {
   transition: all 0.3s ease-in-out;
-  background: #efdddde1;
+  background: #e6e2e2b9;
   opacity: 0;
   top: 20px;
   right: 20px;
@@ -929,7 +929,7 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #D2383F;
+  background: #C70039;
   width: 50px;
   height: 50px;
   color: #fff;

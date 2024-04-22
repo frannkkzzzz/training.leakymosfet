@@ -95,7 +95,7 @@ weight = 7
 author = "LeakyMosfet"
 description = "LeakyMosfet Advanced Laptop Repair Training"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/logo3.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -132,7 +132,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/logo3.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/leakymosfet"
