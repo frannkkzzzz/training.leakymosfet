@@ -19,7 +19,7 @@ pricing:
         - No Incidental Expenses
       button:
         label : "Sign up"
-        link : "signup/templates/online"
+        link : "signup/online"
         
     # pricing table loop
     - name : F2F Training
@@ -37,7 +37,7 @@ pricing:
         - Additional Incidental Expenses
       button:
         label : "Sign up"
-        link : "signup/templates/facetoface"
+        link : "signup/facetoface"
       
     # pricing table loop
     - name : VIP Training
@@ -55,6 +55,6 @@ pricing:
         - Additional Incidental Expenses
       button:
         label : "Sign up"
-        link : "signup/templates/vip"
+        link : "signup/vip"
       
     
