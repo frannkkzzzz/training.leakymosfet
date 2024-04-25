@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on LeakyMosfet Laptop Repair Training</title>
-    <link>/author/</link>
+    <link>https://trainingleakymosfet.netlify.app/author/</link>
     <description>Recent content in Authors on LeakyMosfet Laptop Repair Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [LeakyMosfet](https://www.leakymosfet.com)</copyright>
-    <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trainingleakymosfet.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Franklin Ogot</title>
-      <link>/author/franklin-ogot/</link>
+      <link>https://trainingleakymosfet.netlify.app/author/franklin-ogot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/franklin-ogot/</guid>
+      <guid>https://trainingleakymosfet.netlify.app/author/franklin-ogot/</guid>
       <description>Just a sleepy humannn.</description>
     </item>
     <item>
       <title>Nestor Enhente</title>
-      <link>/author/nestor-enhente/</link>
+      <link>https://trainingleakymosfet.netlify.app/author/nestor-enhente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/nestor-enhente/</guid>
+      <guid>https://trainingleakymosfet.netlify.app/author/nestor-enhente/</guid>
       <description></description>
     </item>
     <item>
       <title>Oliver Agustin</title>
-      <link>/author/oliver-agustin/</link>
+      <link>https://trainingleakymosfet.netlify.app/author/oliver-agustin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/oliver-agustin/</guid>
+      <guid>https://trainingleakymosfet.netlify.app/author/oliver-agustin/</guid>
       <description>Summmary of Qualifications Over 20 years of solid IT industry experience in planning, designing, implementing and supporting information technology infrastructure.</description>
     </item>
   </channel>

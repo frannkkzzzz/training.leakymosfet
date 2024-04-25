@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>https://trainingleakymosfet.netlify.app/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/"
+                href="https://trainingleakymosfet.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/categories/"
+                href="https://trainingleakymosfet.netlify.app/fr/categories/"
                 />
   </url><url>
-    <loc>/fr/</loc>
+    <loc>https://trainingleakymosfet.netlify.app/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/"
+                href="https://trainingleakymosfet.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/"
+                href="https://trainingleakymosfet.netlify.app/fr/"
                 />
   </url><url>
-    <loc>/fr/tags/</loc>
+    <loc>https://trainingleakymosfet.netlify.app/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/"
+                href="https://trainingleakymosfet.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="/fr/tags/"
+                href="https://trainingleakymosfet.netlify.app/fr/tags/"
                 />
   </url>
 </urlset>

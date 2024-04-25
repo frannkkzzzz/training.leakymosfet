@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on LeakyMosfet Laptop Repair Training</title>
-    <link>/fr/categories/</link>
+    <link>https://trainingleakymosfet.netlify.app/fr/categories/</link>
     <description>Recent content in Categories on LeakyMosfet Laptop Repair Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 [LeakyMosfet](https://www.leakymosfet.com)</copyright>
-    <atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trainingleakymosfet.netlify.app/fr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

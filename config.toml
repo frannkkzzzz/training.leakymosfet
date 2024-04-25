@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://trainingleakymosfet.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
