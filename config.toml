@@ -49,48 +49,6 @@ pre = "#"
 url = "contact"
 weight = 7
 
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [LeakyMosfet](https://www.leakymosfet.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "sur"
-pre = "#"
-url = "about"
-weight = 1
-[[Languages.fr.menu.main]]
-name = "un service"
-pre = "#"
-url = "services"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[Languages.fr.menu.main]]
-name = "équipe"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.fr.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[Languages.fr.menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 7
 [params]
 author = "LeakyMosfet"
 description = "LeakyMosfet Advanced Laptop Repair Training"
@@ -101,10 +59,10 @@ post_share = true
 enable = false
 expire_days = 2
 [params.map]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+enable = true
+gmap_api = "https://www.google.com/maps/embed?pb=!4v1714102382720!6m8!1m7!1sP5Z4HgFH7xxHxol_6i4bUA!2m2!1d15.48966786588684!2d120.9674846334295!3f327.94067!4f0!5f0.7820865974627469"
+map_latitude = "15.498739771918006"
+map_longitude = "-120.96317174902205"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
