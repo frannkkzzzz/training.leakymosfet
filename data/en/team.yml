@@ -8,23 +8,35 @@ team:
       image_webp : images/team/doc.jpg
       image : images/team/doc.jpg
       designation : LeakyMosfet Founder & Trainor
-      content : Completed PhD in Information Technology. A software developer and IT consultant.
+      content : Meet our trainor who recently completed their PhD in Information Technology. Their expertise elevates our team's capabilities, ensuring innovative solutions and strategic insights for our clients.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/olivearagustin"
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+
+      # team member loop
+    - name : Mitch Alvarez
+      image_webp : images/team/mitch.webp
+      image : images/team/mitch.jpg
+      designation : Business Development Supervisor
+      content : Joined our team two years ago, infusing it with a vibrant passion for her work. Her enthusiasm and dedication have been palpable since day one, inspiring those around her to strive for excellence.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/mitchveraequinox"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"       
+        
         
     # team member loop
     - name : Shiela Sansano
       image_webp : images/team/shiela.webp
       image : images/team/shiela.jpg
       designation : Sales Staff
-      content : New member of team leakymosfet with years of experience in sales.
+      content : Meet the newest addition to the team, bringing years of invaluable experience in sales. With a proven track record of success, her expertise promises to enhance dynamic and drive towards excellence.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/profile.php?id=100095424196382"
@@ -32,7 +44,19 @@ team:
           link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+
+    # team member loop
+    - name : Joel Mercado
+      image_webp : images/team/joel.jpg
+      image : images/team/joel1.jpg
+      designation : Service Engineer
+      content :  Boasting two years of specialized experience in electronics repair. Renowned as a expert technician, adds a valuable dimension to our team's capabilities and top-notch quality in laptop repair.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/profile.php?id=100085174060150"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "#"
 
     # team member loop
@@ -40,13 +64,11 @@ team:
       image_webp : images/team/frank1.jpg
       image : images/team/frank1.jpg
       designation : Support Service Engineer
-      content : Joined team leakymosfet a few months ago. Very passionate about what he does.
+      content : A passionate new addition to the team just a few months ago. With unwavering enthusiasm for their work, they've quickly become an integral part of our dynamic, infusing fresh energy and dedication into his work.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/profile.php?id=61550257700161"
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"

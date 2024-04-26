@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "LeakyMosfet Laptop Repair Training"
-  content : "EXPLORE. DISCOVER. EVOLVE."
+  content : "Let us Explore, Discover, and Evolve our Laptop Repair Knowledge! Come and Join Us Now!"
   button:
     enable : true
     label : "Sign Up Now"
